@@ -1,0 +1,9 @@
+{
+  "name": "sentiment-circuit-breaker",
+  "version": "1.0.0",
+  "description": "On-chain emergency pause triggered by social sentiment",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
